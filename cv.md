@@ -32,17 +32,18 @@ My goal is to gain knowledge in the field of front-end development.*
       return counter
   ```
 
-  ## Education
+## Education
 
-  - **University**
-      - Donetsk National Technical University
-         - mechanic
-  - **Courses**  
-     - Coursera (Google IT Support)
-     - HTML/CSS
-     - Python (in process...)
+- **University**
+  - Donetsk National Technical University
+    - mechanic
+- **Courses**  
+  - Coursera (Google IT Support)
+  - HTML/CSS
+  - JS basis
+  - Python (in process...)
 
-  ## Languages
+## Languages
 
   - **Ukrainian** - native speaker
-  - **English** - A1(in process...)
+  - **English** - A1, A2(in process...)
